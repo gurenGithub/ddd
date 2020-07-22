@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T09:45:59.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="VzBLCe9k9TPtqBPJ7B4g" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T09:48:40.964Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="xw-1LtOlGCgQi4DQXh8S" version="13.4.9" type="github">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="Page-1">
-    <mxGraphModel dx="2372" dy="3786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3199" dy="3786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,15 @@
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-63" value="飘窗 2800*620" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="540" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-64" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-560" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-500" width="169.42" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-67" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=north;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-499" width="560" height="741" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
