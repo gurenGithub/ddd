@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T09:43:10.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Os1hwbGY5a7qwYK1vPz1" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T09:45:59.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="VzBLCe9k9TPtqBPJ7B4g" version="13.4.9" type="github">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="Page-1">
     <mxGraphModel dx="2372" dy="3786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="vzK_dxTVYCNvjSEffGEo-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="479.71000000000004" y="82" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="vzK_dxTVYCNvjSEffGEo-33" value="" style="endArrow=classic;html=1;entryX=0.748;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.708;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vzK_dxTVYCNvjSEffGEo-3" target="vzK_dxTVYCNvjSEffGEo-14">
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-33" value="" style="endArrow=classic;html=1;entryX=0.709;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.708;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vzK_dxTVYCNvjSEffGEo-3" target="vzK_dxTVYCNvjSEffGEo-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="30" as="sourcePoint" />
             <mxPoint x="960" y="30" as="targetPoint" />
@@ -115,6 +115,15 @@
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-60" value="2200*600" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="770" y="-450" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-61" value="飘窗 2800*620" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1450" width="550" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-62" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallU;fillColor=#000000;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-1460" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-63" value="飘窗 2800*620" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="540" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
