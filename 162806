@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T10:33:10.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="s1ZKLbLaj36bn3W6kVTo" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T10:34:12.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="KTfhoVmUq5lRvrnpzAwM" version="13.4.9" type="github">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="Page-1">
     <mxGraphModel dx="2804" dy="3545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,16 +200,16 @@
           <mxGeometry x="360" y="-1015.23" width="114.1" height="121.23" as="geometry" />
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-91" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.25;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-1460" width="120" height="10" as="geometry" />
+          <mxGeometry x="350" y="-1460" width="100" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-92" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="490" y="-1340" width="36.6" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-94" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-1460" width="64.1" height="10" as="geometry" />
+          <mxGeometry x="450" y="-1460" width="24.1" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-95" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-1461.13" width="250" height="561.13" as="geometry" />
+          <mxGeometry x="230" y="-1460" width="120" height="560" as="geometry" />
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-97" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;fontSize=30;direction=north;" vertex="1" parent="1">
           <mxGeometry x="242" y="-1070" width="113" height="90" as="geometry" />
@@ -219,6 +219,9 @@
         </mxCell>
         <mxCell id="vzK_dxTVYCNvjSEffGEo-103" value="淋浴 1080*940" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="241" y="-1330" width="228" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vzK_dxTVYCNvjSEffGEo-107" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.25;fontSize=30;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-775" width="10" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
