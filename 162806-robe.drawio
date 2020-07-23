@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T06:12:49.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="DWNs_W98H_sSt9cMzcZj" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T06:13:37.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="7spxRaID0f6aldAt35Oq" version="13.4.9" type="github">
   <diagram id="OUFotzu2nuJO9HsXuHpa" name="Page-1">
     <mxGraphModel dx="1395" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,13 +226,13 @@
         <mxCell id="x0C-eYwyRsTy7gLF-6HN-139" value="500" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=left;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="670" y="1365" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="x0C-eYwyRsTy7gLF-6HN-140" value="层板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="x0C-eYwyRsTy7gLF-6HN-140" value="层板（隔断）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="920" y="1475" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0C-eYwyRsTy7gLF-6HN-141" value="抽屉" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="x0C-eYwyRsTy7gLF-6HN-141" value="抽屉（2）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="920" y="1535" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0C-eYwyRsTy7gLF-6HN-142" value="抽屉" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="x0C-eYwyRsTy7gLF-6HN-142" value="层板（隔断）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="920" y="1595" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0C-eYwyRsTy7gLF-6HN-143" value="收纳" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;" vertex="1" parent="1">
