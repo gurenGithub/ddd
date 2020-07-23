@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T06:41:49.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="MoLuzPjhbmdEK1mK3rLU" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T06:46:43.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Be2gJmpQWCPTIebAIfau" version="13.4.9" type="github">
   <diagram id="OUFotzu2nuJO9HsXuHpa" name="Page-1">
-    <mxGraphModel dx="1186" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3389" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,6 +273,9 @@
         </mxCell>
         <mxCell id="x0C-eYwyRsTy7gLF-6HN-175" value="300" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="1100" y="2500" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0C-eYwyRsTy7gLF-6HN-178" value="主卧衣柜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="50" width="145" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
