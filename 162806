@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T03:55:27.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="MSzYax9CNaMDhhduQVfb" version="13.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-24T03:56:50.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="qjePlIYf_UP-dW7uw4LD" version="13.4.9" type="github" pages="2">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="layout">
-    <mxGraphModel dx="5953" dy="4813" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="5389" dy="4469" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,6 +429,9 @@
         </mxCell>
         <mxCell id="OFI--4IrqyIVN0dL68DN-3" value="&lt;span style=&quot;font-size: 40px&quot;&gt;儿童房&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-19.99999999999998" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OFI--4IrqyIVN0dL68DN-4" value="&lt;font style=&quot;font-size: 60px&quot;&gt;16#2806&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="-2010" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
