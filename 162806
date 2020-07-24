@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T03:35:26.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ZkBDjUCvRYa9CWRI8WvF" version="13.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-24T03:36:04.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="lBpFKy0r1IJ22-mmFGOd" version="13.4.9" type="github" pages="2">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="layout">
     <mxGraphModel dx="5389" dy="4469" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -654,8 +654,8 @@
         <mxCell id="NF9xswGwBtZBv1emnkmU-90" value="300" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;strokeColor=#1A1A1A;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
           <mxGeometry x="1300" y="2500" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF9xswGwBtZBv1emnkmU-91" value="主卧衣柜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
-          <mxGeometry x="295" y="50" width="145" height="20" as="geometry" />
+        <mxCell id="NF9xswGwBtZBv1emnkmU-91" value="主卧衣柜（全白色，平开门，隐形门）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
+          <mxGeometry x="280" y="50" width="215" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAJSRqHS0V5hMlNkGrVV-7" value="单开" style="rounded=0;whiteSpace=wrap;html=1;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
           <mxGeometry x="190" y="3620" width="80" height="180" as="geometry" />
