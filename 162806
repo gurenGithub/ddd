@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T04:11:52.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="bNAqLYR-Zg-6074-J1Ey" version="13.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-24T04:13:31.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="YIc1UO37MwZHGfWBoVZW" version="13.4.9" type="github" pages="2">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="layout">
-    <mxGraphModel dx="5389" dy="4469" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="12782" dy="8982" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -939,8 +939,8 @@
         <mxCell id="8SBcvt8yAv2GTqgB9Cui-25" value="隔层" style="rounded=0;whiteSpace=wrap;html=1;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
           <mxGeometry x="1416" y="3900" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8SBcvt8yAv2GTqgB9Cui-26" value="&lt;font style=&quot;font-size: 40px&quot;&gt;儿童房衣柜（平开,整体白色，把手黄色）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
-          <mxGeometry x="380" y="1240" width="785" height="20" as="geometry" />
+        <mxCell id="8SBcvt8yAv2GTqgB9Cui-26" value="&lt;font style=&quot;font-size: 40px&quot;&gt;儿童房衣柜（平开，无边框,整体白色，把手黄色）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
+          <mxGeometry x="380" y="1240" width="920" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8SBcvt8yAv2GTqgB9Cui-29" value="椭圆木把手yellow" style="rounded=0;whiteSpace=wrap;html=1;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
           <mxGeometry x="290" y="1685" width="40" height="60" as="geometry" />
