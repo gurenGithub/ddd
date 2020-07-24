@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T03:36:41.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Zw0Rak_BmjW6EbjmRyzH" version="13.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-24T03:36:48.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="3mZIIKb64iHF-f6mLNnv" version="13.4.9" type="github" pages="2">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="layout">
     <mxGraphModel dx="5389" dy="4469" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -606,7 +606,7 @@
         <mxCell id="NF9xswGwBtZBv1emnkmU-74" value="800" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;strokeColor=#1A1A1A;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
           <mxGeometry x="660" y="620" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="NF9xswGwBtZBv1emnkmU-75" value="&lt;span style=&quot;font-size: 24px&quot;&gt;客房（白色+浅木纹）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
+        <mxCell id="NF9xswGwBtZBv1emnkmU-75" value="&lt;span style=&quot;font-size: 24px&quot;&gt;客房（推拉门，白色+浅木纹）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
           <mxGeometry x="155" y="2010" width="355" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NF9xswGwBtZBv1emnkmU-76" value="&lt;span style=&quot;font-size: 24px&quot;&gt;客房隔层&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NF9xswGwBtZBv1emnkmU-1" vertex="1">
