@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T03:34:20.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="IDJb43lDJNC4n2g79vet" version="13.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-24T03:35:26.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ZkBDjUCvRYa9CWRI8WvF" version="13.4.9" type="github" pages="2">
   <diagram id="rhjzsmMe35zXz7YvAISz" name="layout">
     <mxGraphModel dx="5389" dy="4469" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -927,8 +927,8 @@
         <mxCell id="8SBcvt8yAv2GTqgB9Cui-25" value="隔层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NF9xswGwBtZBv1emnkmU-1">
           <mxGeometry x="1416" y="3680" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8SBcvt8yAv2GTqgB9Cui-26" value="儿童房衣柜（平开）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NF9xswGwBtZBv1emnkmU-1">
-          <mxGeometry x="300" y="1030" width="150" height="20" as="geometry" />
+        <mxCell id="8SBcvt8yAv2GTqgB9Cui-26" value="儿童房衣柜（平开,整体白色，把手黄色）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NF9xswGwBtZBv1emnkmU-1">
+          <mxGeometry x="205" y="1030" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8SBcvt8yAv2GTqgB9Cui-29" value="把手yellow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NF9xswGwBtZBv1emnkmU-1">
           <mxGeometry x="290" y="1465" width="30" height="60" as="geometry" />
@@ -941,6 +941,12 @@
         </mxCell>
         <mxCell id="8SBcvt8yAv2GTqgB9Cui-35" value="把手yellow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NF9xswGwBtZBv1emnkmU-1">
           <mxGeometry x="450" y="1465" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SBcvt8yAv2GTqgB9Cui-36" value="白色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NF9xswGwBtZBv1emnkmU-1">
+          <mxGeometry x="220" y="1270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8SBcvt8yAv2GTqgB9Cui-38" value="白色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NF9xswGwBtZBv1emnkmU-1">
+          <mxGeometry x="170" y="1290" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
